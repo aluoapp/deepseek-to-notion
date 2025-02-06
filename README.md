@@ -1,28 +1,104 @@
-DeepSeek to Notion - Save AI Conversations with One Click
+# DeepSeek to Notion - Save DeepSeek Conversations to Notion with One Click
 
-Transform your DeepSeek Chat experience by seamlessly saving valuable conversations to Notion. This powerful Chrome extension bridges the gap between AI interactions and your knowledge management system.
+<p align="center">
+  <img src="assets/logo.png" alt="DeepSeek to Notion Logo" width="200"/>
+</p>
 
-🌟 Key Features:
-• One-Click Save: Instantly save any DeepSeek conversation to your Notion database
-• Batch Sync: Efficiently backup multiple conversations at once
-• Flexible Sync Options: Skip, Overwrite, or Create new pages for existing conversations
-• Real-time Progress: Monitor sync status with detailed success/failure tracking
-• Smart Extraction: Automatically captures titles, content, and timestamps
+<p align="center">
+  <a href="https://chrome.google.com/webstore/detail/oenicbdlchhhpkbijcmkkpnpmmjhlgkf">
+    <img src="https://img.shields.io/chrome-web-store/v/oenicbdlchhhpkbijcmkkpnpmmjhlgkf" alt="Chrome Web Store Version">
+  </a>
+  <a href="https://chrome.google.com/webstore/detail/oenicbdlchhhpkbijcmkkpnpmmjhlgkf">
+    <img src="https://img.shields.io/chrome-web-store/users/oenicbdlchhhpkbijcmkkpnpmmjhlgkf" alt="Chrome Web Store Users">
+  </a>
+  <a href="https://github.com/yourusername/deepseek-to-notion/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/yourusername/deepseek-to-notion" alt="License">
+  </a>
+</p>
 
-💡 Perfect for:
-• Knowledge Workers: Build your personal knowledge base from AI conversations
-• Teams: Share and collaborate on AI-generated insights
-• Content Creators: Archive and organize AI-assisted content
-• Researchers: Maintain a searchable database of AI interactions
+## ✨ Features
 
-⚡️ Why Choose DeepSeek to Notion:
-• Clean, intuitive interface
-• Seamless Notion integration
-• Reliable sync performance
-• Regular updates and maintenance
-• Professional technical support
+### 🚀 One-Click Save
+- Floating "Save to Notion" button on DeepSeek chat interface
+- Instantly save current conversation to your Notion database
+- Smart extraction of chat title, content, and timestamp
 
-Never lose valuable AI conversations again. Start organizing your DeepSeek chats in Notion today!
+### 📚 Batch Synchronization
+- Bulk sync historical conversations to Notion
+- Customizable page range selection
+- Real-time progress tracking
+- Cancellable sync operations
 
-Website: https://deepseek2notion.aluo.app
-Documentation: https://obtainable-cinnamon-d87.notion.site/DeepSeek-to-Notion-Home-19119e4fc636804b887ad74f7c6cb596
+### 🔄 Flexible Sync Strategies
+- Skip existing conversations
+- Overwrite existing pages
+- Create new pages (Duplicate mode)
+
+### 🔌 Notion Integration
+- Seamless connection to Notion workspace
+- Multiple database selection
+- Database list refresh support
+
+## 🎯 Use Cases
+
+1. **Knowledge Management**
+   - Preserve valuable DeepSeek conversations
+   - Build your personal knowledge base in Notion
+
+2. **Team Collaboration**
+   - Share important AI conversations
+   - Centralize team's AI interaction records
+
+3. **Content Archiving**
+   - Batch backup historical chats
+   - Prevent loss of important conversations
+
+## ⚙️ Setup Guide
+
+1. **Notion Authorization**
+   - Click "Connect to Notion" to authorize
+   - Select target database
+
+2. **Sync Configuration**
+   - Choose page range for sync
+   - Set sync strategy (Skip/Overwrite/Duplicate)
+
+3. **Subscription Verification**
+   - Verify subscription status with email
+   - Batch sync requires subscription
+
+## 💫 Key Advantages
+
+- Clean and modern user interface
+- Real-time sync progress
+- Detailed success/failure logs
+- Pause and resume capability
+- Comprehensive error handling
+
+## 🔗 Quick Links
+
+- Website: https://deepseek2notion.aluo.app
+- Documentation: https://obtainable-cinnamon-d87.notion.site/DeepSeek-to-Notion-Home-19119e4fc636804b887ad74f7c6cb596
+- Support: aluoapps@gmail.com
+
+## 🛠️ Technical Support
+
+- Compatible with latest DeepSeek Chat
+- Supports major browsers
+- Regular updates and maintenance
+- Professional technical support
+
+## 🚀 Roadmap
+
+- Enhanced sync customization options
+- Performance optimization
+- Advanced analytics features
+- Additional Notion templates
+
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+Make DeepSeek to Notion your AI conversation management assistant for effortless knowledge accumulation and team collaboration!
