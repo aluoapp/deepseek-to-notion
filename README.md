@@ -69,10 +69,6 @@
    - Choose page range for sync
    - Set sync strategy (Skip/Overwrite/Duplicate)
 
-3. **Subscription Verification**
-   - Verify subscription status with email
-   - Batch sync requires subscription
-
 ## 💫 Key Advantages
 
 - Clean and modern user interface
