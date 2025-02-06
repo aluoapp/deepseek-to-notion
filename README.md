@@ -1,7 +1,7 @@
 # DeepSeek to Notion - Save DeepSeek Conversations to Notion with One Click
 
 <p align="center">
-  <img src="assets/logo.png" alt="DeepSeek to Notion Logo" width="200"/>
+  <img src="icon.png" alt="DeepSeek to Notion Logo" width="200"/>
 </p>
 
 <p align="center">
