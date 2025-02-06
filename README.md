@@ -102,3 +102,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 Make DeepSeek to Notion your AI conversation management assistant for effortless knowledge accumulation and team collaboration!
+
+<p align="center">
+  <img src="assets/save2notion-1.png" alt="DeepSeek to Notion" />
+</p>
+<p align="center">
+  <img src="assets/save2notion-2.png" alt="DeepSeek to Notion" />
+</p>
+<p align="center">
+  <img src="assets/save2notion-3.png" alt="DeepSeek to Notion" />
+</p>
