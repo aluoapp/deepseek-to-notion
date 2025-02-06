@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/chrome-web-store/users/oenicbdlchhhpkbijcmkkpnpmmjhlgkf" alt="Chrome Web Store Users">
   </a>
   <a href="https://github.com/yourusername/deepseek-to-notion/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/yourusername/deepseek-to-notion" alt="License">
+    <img src="https://img.shields.io/github/license/aluoapp/deepseek-to-notion" alt="License">
   </a>
 </p>
 
