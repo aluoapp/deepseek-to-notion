@@ -16,6 +16,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="README.md">English</a> | <a href="README_zh.md">中文</a>
+</p>
+
+<h2 id="english">English</h2>
+
 ## ✨ Features
 
 ### 🚀 One-Click Save
